@@ -10,6 +10,6 @@ var = FirstNumber + LastNumber
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
--[] This this the first task list 
--[x] Completed adding of the code using Markdown
--[x] Testing to see the different using Positive sign
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
