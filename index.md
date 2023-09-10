@@ -13,4 +13,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 -[] This this the first task list 
 -[x] Completed adding of the code using Markdown
--[+] Testing to see the different using Positive sign
+-[] Testing to see the different using Positive sign
